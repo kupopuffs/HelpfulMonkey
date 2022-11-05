@@ -16,4 +16,8 @@ git commit -m "update readme"
 git push
 
 #### nice commands
-* `git log`
+* `git log`: see the history
+* `git status`: see the current status of your changes
+* `git diff`: see the diff of your changes
+
+
